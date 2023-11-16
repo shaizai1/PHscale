@@ -1,0 +1,77 @@
+body{
+    font-size: 45px;
+}
+
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+table{
+    table-layout: fixed;
+    text-align: center;
+    
+}
+.single{
+    text-indent: 17px;
+}
+b{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.Num{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.zero{
+    background-color: red;
+    height: 200px;
+}
+.one{
+    background-color: orangered;
+}
+.two{
+    background-color: orange;
+}
+.three{
+    background-color: yellow;
+}
+.four{
+    background-color: rgb(199, 247, 42);
+}
+.five{
+    background-color: rgb(157, 234, 40);
+}
+.six{
+    background-color: rgb(17, 189, 17);
+}
+.seven{
+    background-color: rgb(4, 162, 4);
+}
+.eight{
+    background-color: rgb(13, 195, 146);
+}
+.nine{
+    background-color: turquoise;
+}
+.ten{
+    background-color: cornflowerblue;
+}
+.eleven{
+    background-color: rgb(46, 28, 164);
+}
+.twelve{
+    background-color: rgb(108, 77, 233);
+}
+.thirteen{
+    background-color: rgb(103, 21, 190);
+}
+.fourteen{
+    background-color: rgb(58, 2, 106);
+}
+.category{
+    size: 50px;
+}
